@@ -97,13 +97,20 @@ Outside of my above project-specific interests, I am currently interested in
 5. Coordinator in [Saarang](https://saarang.org/) (Anual Cultural fest of IIT Madras)
 6. Junior Consultant at [ShARE](https://www.linkedin.com/company/share-iit-madras/?originalSubdomain=in) IIT Madras Chapter
 
-![Satya Sai's github stats](https://github-readme-stats.vercel.app/api?username=TankalaSatyaSai&count_private=true) 
-
 ## Publications 
 ### Conference Proceedings
 1. ["Optimizing Artificial Landmark Placement for Improving Indoor
 Localization of Mobile Robots"](), Venkata Naren Devarakonda,  Tankala Satya Sai, and Bijo Sebastian. IDETC ASME(2024). [Accepted. To be published online.]
-2. ["InnoGuideGPT: Integrating conversational interface and command interpretation for navigation robots"](https://dl.acm.org/doi/10.1145/3639856.3639915), Rahul Sundar, Shreyash Gadgil, Tankala Satya Sai, ... . AIMLSystems (2023). 
+2. ["InnoGuideGPT: Integrating conversational interface and command interpretation for navigation robots"](https://dl.acm.org/doi/10.1145/3639856.3639915), Rahul Sundar, Shreyash Gadgil, Tankala Satya Sai, ... . AIMLSystems (2023).
+
+![Satya Sai's github stats](https://github-readme-streak-stats.herokuapp.com/?user=TankalaSatyaSai&) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TankalaSatyaSai&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TankalaSatyaSai&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TankalaSatyaSai&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TankalaSatyaSai&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TankalaSatyaSai&theme=github&utcOffset=8)
+
 
 ## Contact
 Reach out to me and let me know how I can assist you in making your day brighter and better! I would love to serve/ guide/ collaborate with any passionate individual working/ seeking to work in similar areas or who requires a skill set that I can offer. 
@@ -111,7 +118,7 @@ Email:
 satyasai2004.edu@gmail.com
 
 <p align="center">
-  <a href="https://www.instagram.com/satyasai_04?igsh=MTFjMzF4dnc2Nzdmcg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-satyasai-orange?style=for-the-badge&logo=instagram" alt="@satyasai04" /></a>
+  <a href="https://www.instagram.com/satyasai_04?igsh=MTFjMzF4dnc2Nzdmcg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-satyasai04-orange?style=for-the-badge&logo=instagram" alt="@satyasai04" /></a>
   <a href="https://www.linkedin.com/in/tankala-satya-sai-b12b22223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-satyasai-blue?style=for-the-badge&logo=linkedin" alt="Tanakla Satya Sai" /></a>
   <a href="https://www.researchgate.net/profile/Tankala-Satya-Sai" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-satyasai-green?style=for-the-badge&logo=researchgate" alt="Tanakla Satya Sai" /></a>
   <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-green?style=for-the-badge&logo=googlescholar" alt="Tanakla Satya Sai" /></a>
