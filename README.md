@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hey, Welcome! 👋</h1>
+<h3 align="center">Welcome to my GitHub. Explore my projects and join me in building something amazing together.</h3>
 
 <!--
 **TankalaSatyaSai/TankalaSatyaSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
