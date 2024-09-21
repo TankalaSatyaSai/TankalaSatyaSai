@@ -52,7 +52,7 @@ Outside of my above project-specific interests, I am currently interested in
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:30px;"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin:10px;"/> 
@@ -88,8 +88,7 @@ Outside of my above project-specific interests, I am currently interested in
   </a>   
 </p>
 
-
- ##Positions Of Responsibilities 
+ ### Positions Of Responsibilities 
 
 1. Current senior mentor and former head of [iBot club](https://cfi.iitm.ac.in/clubs/ibot-club) at [Centre For Innovation](https://cfi.iitm.ac.in/)
 2. Founded Team Chetak (Robocon team of IIT Madras) and Team Lead
