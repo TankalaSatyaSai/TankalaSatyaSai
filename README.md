@@ -65,9 +65,7 @@ Outside of my above project-specific interests, I am currently interested in
   </a> 
   <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros2" width="40" height="40"/> 
   </a>
-  <a href="https://wiki.ros.org/rviz" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Rviz_logo.svg" alt="rviz" width="40" height="40"/> 
-  </a>
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gazebo_logo.svg/512px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/> 
+  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos_small-0534ff73fffc6a43177f0ec67b7f0ca5b71b50308660dba809c2c325339c7d06.png" alt="gazebo" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
