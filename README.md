@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I am [Satya Sai](https://www.linkedin.com/in/tankala-satya-sai-b12b22223/), a 4th-year undergraduate student in the [Engineering Design Department](https://ed.iitm.ac.in/), [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I am an undergraduate student researcher in the [Autonomous Systems Lab](https://asl-iitm.github.io/) at IIT Madras under [Prof. Bijo Sebastian](https://asl-iitm.github.io/bijosebastian/).
 
+<img align="right" alt="webdev" width="250" src="https://www.veropool.com/wp-content/uploads/2022/05/dancing-robot-2.gif">
+
 As part of my research, I am passionate about working on solving real-world industrial-oriented multi-robot collaboration problems as they offer me the opportunity to go deep and wide in different interconnected topics mentioned below:
 
 * Kinematics 
