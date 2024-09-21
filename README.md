@@ -65,12 +65,12 @@ Outside of my above project-specific interests, I am currently interested in
   </a> 
   <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros2" width="40" height="40"/> 
   </a>
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="40" height="40"/> 
+  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="60" height="60"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://navigation.ros.org/" target="_blank" rel="noreferrer"> <img src="https://navigation.ros.org/img/nav2.png" alt="nav2" width="40" height="40"/> 
+  <a href="https://navigation.ros.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/ros/optimized/2X/7/781fa8ce870432b9682a95f855b315c454da87c7_2_207x375.png" alt="nav2" width="40" height="40"/> 
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -78,13 +78,13 @@ Outside of my above project-specific interests, I am currently interested in
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/SolidWorks_logo.svg" alt="solidworks" width="40" height="40"/> 
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/613/563/png-transparent-red-and-white-sw-cube-illustration-solidworks-logo-computer-software-mechanical-engineering-cam-newton-miscellaneous-3d-computer-graphics-text-thumbnail.png" alt="solidworks" width="40" height="40"/> 
   </a>
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Ansys_logo.svg" alt="ansys" width="40" height="40"/> 
+  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png?t=1720244490" alt="ansys" width="40" height="40"/> 
   </a>
-  <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Dassault_Syst%C3%A8mes_Logo.svg" alt="abaqus" width="40" height="40"/> 
+  <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" target="_blank" rel="noreferrer"> <img src="https://aniform.com/sites/all/themes/AniForm/image/features/thumbs/abaqusCAE.png" alt="abaqus" width="40" height="40"/> 
   </a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Autodesk_fusion360_logo_icon.svg" alt="fusion 360" width="40" height="40"/>      </a>   
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://dsuj2mkiosyd2.cloudfront.net/fusion-360/170419/6747/33f0ed1f/raasrendering-52be6558-e3af-42a8-aa97-028b558336d8_1300-auto.webp?t=1679337140" alt="fusion 360" width="40" height="40"/>      </a>   
 </p>
 
 
