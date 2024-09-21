@@ -78,13 +78,13 @@ Outside of my above project-specific interests, I am currently interested in
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/613/563/png-transparent-red-and-white-sw-cube-illustration-solidworks-logo-computer-software-mechanical-engineering-cam-newton-miscellaneous-3d-computer-graphics-text-thumbnail.png" alt="solidworks" width="40" height="40"/> 
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp" alt="solidworks" width="40" height="40"/> 
   </a>
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/ANSS-afc9cd74.png?t=1720244490" alt="ansys" width="40" height="40"/> 
+  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz09Vqc4x_565MYUiJqSilTcDy1yvdsmpkKc8zDMAck53566Utx66M04vBoLie0JGvyMM&usqp=CAU" alt="ansys" width="40" height="40"/> 
   </a>
   <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" target="_blank" rel="noreferrer"> <img src="https://aniform.com/sites/all/themes/AniForm/image/features/thumbs/abaqusCAE.png" alt="abaqus" width="40" height="40"/> 
   </a>
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://dsuj2mkiosyd2.cloudfront.net/fusion-360/170419/6747/33f0ed1f/raasrendering-52be6558-e3af-42a8-aa97-028b558336d8_1300-auto.webp?t=1679337140" alt="fusion 360" width="40" height="40"/>      </a>   
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="fusion 360" width="40" height="40"/>      </a>   
 </p>
 
 
