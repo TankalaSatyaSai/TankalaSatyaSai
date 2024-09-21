@@ -52,7 +52,7 @@ Outside of my above project-specific interests, I am currently interested in
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:30px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:80px;"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin:10px;"/> 
@@ -103,13 +103,19 @@ Outside of my above project-specific interests, I am currently interested in
 Localization of Mobile Robots"](), Venkata Naren Devarakonda,  Tankala Satya Sai, and Bijo Sebastian. IDETC ASME(2024). [Accepted. To be published online.]
 2. ["InnoGuideGPT: Integrating conversational interface and command interpretation for navigation robots"](https://dl.acm.org/doi/10.1145/3639856.3639915), Rahul Sundar, Shreyash Gadgil, Tankala Satya Sai, ... . AIMLSystems (2023).
 
-![Satya Sai's github stats](https://github-readme-streak-stats.herokuapp.com/?user=TankalaSatyaSai&) 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TankalaSatyaSai&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TankalaSatyaSai&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TankalaSatyaSai&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TankalaSatyaSai&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TankalaSatyaSai&theme=github&utcOffset=8)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TankalaSatyaSai&" alt="Satya Sai's GitHub Streak Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TankalaSatyaSai&theme=github" alt="GitHub Profile Summary" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TankalaSatyaSai&theme=github" alt="Repos per Language" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TankalaSatyaSai&theme=github" alt="Most Commit Language" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TankalaSatyaSai&theme=github" alt="GitHub Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TankalaSatyaSai&theme=github&utcOffset=8" alt="Productive Time" />
+</div>
 
 
 ## Contact
