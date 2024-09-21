@@ -56,3 +56,15 @@ Outside of my above project-specific interests, I am currently interested in
 5. Coordinator in [Saarang](https://saarang.org/) (Anual Cultural fest of IIT Madras)
 6. Junior Consultant at [ShARE](https://www.linkedin.com/company/share-iit-madras/?originalSubdomain=in) IIT Madras Chapter
 
+![Satya Sai's github stats](https://github-readme-stats.vercel.app/api?username=TankalaSatyaSai&count_private=true) 
+
+## Publications 
+### Conference Proceedings
+1. ["Optimizing Artificial Landmark Placement for Improving Indoor
+Localization of Mobile Robots"](), Venkata Naren Devarakonda,  Tankala Satya Sai, and Bijo Sebastian. IDETC ASME(2024). [Accepted. To be published online.]
+2. ["InnoGuideGPT: Integrating conversational interface and command interpretation for navigation robots"](https://dl.acm.org/doi/10.1145/3639856.3639915), Rahul Sundar, Shreyash Gadgil, Tankala Satya Sai, ... . AIMLSystems (2023). 
+
+## Contact
+Reach out to me and let me know how I can assist you in making your day brighter and better! I would love to serve/ guide/ collaborate with any passionate individual working/ seeking to work in similar areas or who requires a skill set that I can offer. 
+Email:
+satyasai2004.edu@gmail.com
