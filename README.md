@@ -49,6 +49,47 @@ Outside of my above project-specific interests, I am currently interested in
 * Simulations for robotics (Issac sim, gazebo, etc)
 * Sim-to-Real & Real-to-Sim
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros2" width="40" height="40"/> 
+  </a>
+  <a href="https://wiki.ros.org/rviz" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Rviz_logo.svg" alt="rviz" width="40" height="40"/> 
+  </a>
+  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gazebo_logo.svg/512px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://navigation.ros.org/" target="_blank" rel="noreferrer"> <img src="https://navigation.ros.org/img/nav2.png" alt="nav2" width="40" height="40"/> 
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/SolidWorks_logo.svg" alt="solidworks" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Ansys_logo.svg" alt="ansys" width="40" height="40"/> 
+  </a>
+  <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Dassault_Syst%C3%A8mes_Logo.svg" alt="abaqus" width="40" height="40"/> 
+  </a>
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Autodesk_fusion360_logo_icon.svg" alt="fusion 360" width="40" height="40"/>      </a>   
+</p>
+
+
  ##Positions Of Responsibilities 
 
 1. Current senior mentor and former head of [iBot club](https://cfi.iitm.ac.in/clubs/ibot-club) at [Centre For Innovation](https://cfi.iitm.ac.in/)
@@ -72,8 +113,8 @@ Email:
 satyasai2004.edu@gmail.com
 
 <p align="center">
-  <a href="https://www.instagram.com/satyasai_04?igsh=MTFjMzF4dnc2Nzdmcg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-satyasai-orange?style=for-the-badge&logo=instagram" alt="satyasai" /></a>
-  <a href="https://www.linkedin.com/in/tankala-satya-sai-b12b22223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-satyasai-blue?style=for-the-badge&logo=linkedin" alt="satyasai" /></a>
-  <a href="https://www.researchgate.net/profile/Tankala-Satya-Sai" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-satyasai-green?style=for-the-badge&logo=researchgate" alt="satyasai" /></a>
-  <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-green?style=for-the-badge&logo=googlescholar" alt="satyasai" /></a>
+  <a href="https://www.instagram.com/satyasai_04?igsh=MTFjMzF4dnc2Nzdmcg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-satyasai-orange?style=for-the-badge&logo=instagram" alt="@satyasai04" /></a>
+  <a href="https://www.linkedin.com/in/tankala-satya-sai-b12b22223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-satyasai-blue?style=for-the-badge&logo=linkedin" alt="Tanakla Satya Sai" /></a>
+  <a href="https://www.researchgate.net/profile/Tankala-Satya-Sai" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-satyasai-green?style=for-the-badge&logo=researchgate" alt="Tanakla Satya Sai" /></a>
+  <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-green?style=for-the-badge&logo=googlescholar" alt="Tanakla Satya Sai" /></a>
 </p>
