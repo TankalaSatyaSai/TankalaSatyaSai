@@ -52,7 +52,7 @@ Outside of my above project-specific interests, I am currently interested in
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:10px;"/> 
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -65,7 +65,7 @@ Outside of my above project-specific interests, I am currently interested in
   </a> 
   <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros2" width="40" height="40"/> 
   </a>
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="60" height="60"/> 
+  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
