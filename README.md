@@ -142,5 +142,5 @@ satyasai2004.edu@gmail.com
   <a href="https://www.instagram.com/satyasai_04?igsh=MTFjMzF4dnc2Nzdmcg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-satyasai04-orange?style=for-the-badge&logo=instagram" alt="@satyasai04" /></a>
   <a href="https://www.linkedin.com/in/tankala-satya-sai-b12b22223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-satyasai-blue?style=for-the-badge&logo=linkedin" alt="Tanakla Satya Sai" /></a>
   <a href="https://www.researchgate.net/profile/Tankala-Satya-Sai" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-satyasai-green?style=for-the-badge&logo=researchgate" alt="Tanakla Satya Sai" /></a>
-  <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-green?style=for-the-badge&logo=googlescholar" alt="Tanakla Satya Sai" /></a>
+  <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-lightblue?style=for-the-badge&logo=googlescholar alt="Tanakla Satya Sai" /></a>
 </p>
