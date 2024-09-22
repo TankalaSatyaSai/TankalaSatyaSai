@@ -68,7 +68,7 @@ Outside of my above project-specific interests, I am currently interested in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin:10px;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros2" width="40" height="40" style="margin:10px;"/> 
+  <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://developer.download.nvidia.com/images/products/logo-ros.jpg" alt="ros2" width="40" height="40" style="margin:10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="60" height="60" style="margin:10px;"/> 
@@ -78,7 +78,7 @@ Outside of my above project-specific interests, I am currently interested in
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:10px;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://navigation.ros.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/ros/optimized/2X/7/781fa8ce870432b9682a95f855b315c454da87c7_2_207x375.png" alt="nav2" width="40" height="40" style="margin:10px;"/> 
+  <a href="https://docs.nav2.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/ros/optimized/2X/7/781fa8ce870432b9682a95f855b315c454da87c7_2_207x375.png" alt="nav2" width="40" height="40" style="margin:10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
