@@ -71,7 +71,7 @@ Outside of my above project-specific interests, I am currently interested in
   <a href="https://ros.org/" target="_blank" rel="noreferrer"> <img src="https://developer.download.nvidia.com/images/products/logo-ros.jpg" alt="ros2" width="40" height="40" style="margin:10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="60" height="60" style="margin:10px;"/> 
+  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_neg_small-7554cf7ba590b1558f05e8ae0e51e895410705639b27eca58f3f492504f227d4.png" alt="gazebo" width="40" height="40" style="margin:10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -142,5 +142,5 @@ satyasai2004.edu@gmail.com
   <a href="https://www.instagram.com/satyasai_04?igsh=MTFjMzF4dnc2Nzdmcg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-satyasai04-orange?style=for-the-badge&logo=instagram" alt="@satyasai04" /></a>
   <a href="https://www.linkedin.com/in/tankala-satya-sai-b12b22223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-satyasai-blue?style=for-the-badge&logo=linkedin" alt="Tanakla Satya Sai" /></a>
   <a href="https://www.researchgate.net/profile/Tankala-Satya-Sai" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-satyasai-green?style=for-the-badge&logo=researchgate" alt="Tanakla Satya Sai" /></a>
-  <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-lightblue?style=for-the-badge&logo=googlescholar alt="Tanakla Satya Sai" /></a>
+  <a href="https://scholar.google.com/citations?user=Az5hOSsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/google_scholar-satyasai-lightblue?style=for-the-badge&logo=googlescholar" alt="Tanakla Satya Sai" /></a>
 </p>
