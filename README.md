@@ -120,6 +120,8 @@ Localization of Mobile Robots"](), Venkata Naren Devarakonda,  Tankala Satya Sai
 ## GitHub Stats 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TankalaSatyaSai&" alt="Satya Sai's GitHub Streak Stats" />
+
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=TankalaSatyaSai&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TankalaSatyaSai&theme=github" alt="GitHub Profile Summary" />
   
